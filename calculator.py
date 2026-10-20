@@ -12,5 +12,5 @@ def multiply(a, b):
 
 def divide(a, b):
     if b == 0:
-        raise ValueError("Cannot divide by zero errorssss in infinity-for another try")
+        raise ValueError("Cannot divide by zero errorssss in infinity-for another try for a failed quality")
     return a / b
